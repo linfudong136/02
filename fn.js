@@ -1,1 +1,1 @@
-console.log('fn v3.0')
+console.log('fn v4.0')
